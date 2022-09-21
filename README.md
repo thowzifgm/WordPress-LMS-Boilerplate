@@ -1,4 +1,5 @@
-# WordPress-LMS-Boilerplate 
+![WordPress LMS Theme Framework](https://raw.githubusercontent.com/thowzifgm/WordPress-LMS-Boilerplate/main/screenshot.png)
+
 WordPress LMS Theme Framework
 
 Use this theme as a base to build your own LMS platform.
